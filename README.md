@@ -20,6 +20,8 @@ Acesse o link: [Power BI](https://app.powerbi.com/reportEmbed?reportId=c3eb0cfc-
 											
 ![image](https://github.com/user-attachments/assets/6cf1152f-8061-4033-881f-431685e4521a)
 
+[Excel](excel/people_analytics.xlsx)
+
 
 
 
