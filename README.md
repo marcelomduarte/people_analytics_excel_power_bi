@@ -22,6 +22,27 @@ Acesse o link: [Power BI](https://app.powerbi.com/reportEmbed?reportId=c3eb0cfc-
 
 [Excel](excel/people_analytics.xlsx)
 
+---
+
+## Storytelling - PowerPoint
+
+![PowerPoint](powerpoint/people_analytics_slides/1.PNG)
+
+![PowerPoint](powerpoint/people_analytics_slides/2.PNG)
+
+![PowerPoint](powerpoint/people_analytics_slides/3.PNG)
+
+![PowerPoint](powerpoint/people_analytics_slides/4.PNG)
+
+![PowerPoint](powerpoint/people_analytics_slides/5.PNG)
+
+![PowerPoint](powerpoint/people_analytics_slides/6.PNG)
+
+[PowerPoint](powerpoint/people_analytics.pptx)
+
+							
+
+
 
 
 
