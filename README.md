@@ -1,5 +1,13 @@
 # People Analytics
 
+## Relatório Power BI
+
+![People Analytics](images/screen_clipping/p1.png)
+
+Acesse o link: [Power BI](https://app.powerbi.com/reportEmbed?reportId=c3eb0cfc-6b64-4fd9-8b73-7e357e0b9021&autoAuth=true&ctid=7ebef80c-1027-4129-b484-ccf2bd3fd58f)
+
+---
+
 ## Relatório Excel
 							
 ![image](https://github.com/marcelomduarte/people_analytics_excel/assets/115512260/1773f8c0-8dda-4578-ab03-d801c9bfa095)
