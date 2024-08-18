@@ -19,3 +19,15 @@ Acesse o link: [Power BI](https://app.powerbi.com/reportEmbed?reportId=c3eb0cfc-
 ![image](https://github.com/marcelomduarte/people_analytics_excel/assets/115512260/01cdec97-b8a0-4c9a-ac41-012a4779a712)
 											
 ![image](https://github.com/marcelomduarte/people_analytics_excel/assets/115512260/d7dee9ac-4cdc-43ec-8ee2-796e7b5b9b9b)
+
+![image](https://github.com/user-attachments/assets/6cf1152f-8061-4033-881f-431685e4521a)
+
+
+
+
+
+
+
+
+
+
